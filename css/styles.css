@@ -1,0 +1,35 @@
+* {
+    margin: ;
+    padding: ;
+    box-sizing: border-box;
+}
+
+
+body {
+    background: #ffa500;
+    color: white;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.t1 {
+    position: relative;
+            bottom:80px;
+    display: inline-block;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+nav{background-color: whitesmoke;}
+.prod li{list-style:none;
+display: inline-block;
+padding: 0px;
+margin: 10px 60px 10px ;
+text-align: center;
+
+
+}
+li :hover{
+    background-color: #ffa500;
+    border-radius: 25%;
+}
+
+
