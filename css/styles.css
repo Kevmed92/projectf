@@ -1,6 +1,4 @@
 * {
-    margin: ;
-    padding: ;
     box-sizing: border-box;
 }
 
@@ -13,23 +11,46 @@ body {
 
 .t1 {
     position: relative;
-            bottom:80px;
+    bottom: 80px;
     display: inline-block;
     color: black;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-nav{background-color: whitesmoke;}
-.prod li{list-style:none;
-display: inline-block;
-padding: 0px;
-margin: 10px 60px 10px ;
-text-align: center;
+
+nav {
+    background-color: whitesmoke;
+}
+
+.prod li {
+    list-style: none;
+    display: inline-block;
+    padding: 0px;
+    margin: 10px 60px 10px;
+    text-align: center;
 
 
 }
-li :hover{
+
+li :hover {
     background-color: #ffa500;
     border-radius: 25%;
 }
+.pp{
+    margin: 0px 45px 0px 50px;
+}
+.pp2{
+    margin: 0px 40px 0px 20px; ;
+}
+.pp3{
+    margin: 0px 50px 0px 40px; ;
+}
 
+.pp1{
+    margin: 0px 85px 0px 50px; ;
 
+}
+.mat {
+    display: flex;
+    flex-direction: row;
+    
+}
